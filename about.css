@@ -3,13 +3,13 @@ margin:2%;
 background:white;
 margin:2%;
 background:none;
-background-image:url("reit-insight-background.jpg");
+background-image:url("file:///C:/Users/ks/Desktop/webpages/reit-insight-background.jpg");
 
     background-position: center;
 }
 header{
 background:none;
-font-family:"arial black";
+font-family:"lucida bright";
 text-align:left;
 font-variant:small-caps;
 font-style:normal;
