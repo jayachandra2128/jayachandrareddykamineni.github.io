@@ -1,0 +1,68 @@
+body{
+margin:2%;
+background:white;
+margin:2%;
+background:none;
+background-image:url("file:///C:/Users/ks/Desktop/webpages/reit-insight-background.jpg");
+
+    background-position: center;
+}
+header{
+background:none;
+font-family:"arial black";
+text-align:left;
+font-variant:small-caps;
+font-style:normal;
+color:#26698a;
+
+
+}
+a{
+
+display:inline-block;
+border:none 1px;
+margin:5px;
+padding:5px;
+background:none;
+color:brown;
+
+}
+a:hover{
+color:red;
+background:yellow;
+}
+
+h1{
+color:#white;
+text-align:left;
+box-sizing:border-box;
+width:50%;
+background:none;
+display:inline-block;
+}
+nav{
+color:brown;
+font-style:normal;
+font-size:150%;
+text-align:center;
+background:none;
+display:inline-block;
+font-variant:small-caps;
+display:inline-block;
+height:100%;
+box-sizing:border-box;
+border:none 3 px;
+margin:10px;
+padding:10px;
+
+}
+div .aboutus{
+
+font-family:"calibri";
+
+}
+div.enquiry{
+font-family:"bradley hand itc";
+color:brown;
+
+}
